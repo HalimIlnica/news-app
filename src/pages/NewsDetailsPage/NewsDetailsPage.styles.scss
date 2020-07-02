@@ -1,0 +1,69 @@
+.news{
+    width: 60%;
+    height: 100%;
+    background-color: orange;
+    border-width: 1;
+    border-style: solid;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.title{
+    width: 60%;
+    height: 100%;
+    background-color: red;
+    border-width: 1;
+    border-style: solid;
+    margin: auto;
+    margin-bottom: 5px;
+}
+.description{
+    width: 60%;
+    height: 100%;
+    background-color: cyan;
+    border: 2px solid black;
+    margin: auto;
+    min-height: 200px;
+    margin-bottom: 10px;
+    
+}
+.author-date{
+    width: 60%;
+    height: 100%;  
+    margin: auto;
+    margin-bottom: 10px;
+    
+}
+.author{
+    float: left;
+    width: auto;
+    background-color: brown;
+    border: 2px solid black;
+}
+.date{
+    float: right;
+    width: auto;
+    background-color: green;
+    border: 2px solid black;
+}
+
+.goback-remove{
+    width: 60%;
+    height: 100%;
+     margin: auto;
+    
+}
+.goback{
+    float: right;
+    width: auto;
+    background-color: brown;
+    border: 2px solid black;
+    margin-right: 10px;
+}
+.remove{
+    float: right;
+    width: auto;
+    background-color: gray;
+    border: 2px solid black;
+    margin-right: 10px;
+}
